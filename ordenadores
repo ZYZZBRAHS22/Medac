@@ -1,1 +1,37 @@
-Por favor pon las caracteristicas del ejercicio 1. Identificando el equip. 
+C:\Windows\System32>systeminfo
+
+Nombre de host:                            DESKTOP-1C956HP
+Nombre del sistema operativo:              Microsoft Windows 11 Home
+Versión del sistema operativo:             10.0.26100 N/D Compilación 26100
+Fabricante del sistema operativo:          Microsoft Corporation
+Configuración del sistema operativo:       Estación de trabajo independiente
+Tipo de compilación del sistema operativo: Multiprocessor Free
+Propietario registrado:                    dmo0013@alu.medac.es
+Organización registrada:                   N/D
+Id. del producto:                          00326-10000-00000-AA697
+Fecha de instalación original:             21/10/2025, 14:43:36
+Tiempo de arranque del sistema:            09/12/2025, 8:24:47
+Fabricante del sistema:                    Micro-Star International Co., Ltd.
+Modelo del sistema:                        MS-7D23
+Tipo de sistema:                           x64-based PC
+Procesadores:                              1 Procesadores instalados.
+                                           [01]: Intel64 Family 6 Model 165 Stepping 3 GenuineIntel ~2904 Mhz
+Versión del BIOS:                          American Megatrends International, LLC. 1.10, 14/09/2021
+Directorio de Windows:                     C:\WINDOWS
+Directorio de sistema:                     C:\WINDOWS\system32
+Dispositivo de arranque:                   \Device\HarddiskVolume1
+Configuración regional del sistema:        es;Español (internacional)
+Idioma de entrada:                         es;Español (tradicional)
+Zona horaria:                              (UTC+01:00) Bruselas, Copenhague, Madrid, París
+Memoria física total:                      8.017 MB
+Memoria física disponible:                 2.077 MB
+Memoria virtual: tamaño máximo:            9.809 MB
+Memoria virtual: disponible:               2.579 MB
+Memoria virtual: en uso:                   7.230 MB
+Ubicaciones de archivos de página:         C:\pagefile.sys
+Dominio:                                   WORKGROUP
+Servidor de inicio de sesión:              \\DESKTOP-1C956HP
+Revisiones:                                3 revisión(es) instaladas.
+                                           [01]: KB5066131
+                                           [02]: KB5068861
+                                           [03]: KB5067035
